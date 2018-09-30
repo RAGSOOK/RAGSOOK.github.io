@@ -1,8 +1,27 @@
 /* this comments like C */
+
+body {
+    background-color: gray;
+}
+
+h1{
+background-color: white;
+}
+
+h2{
+background-color: white;
+}
+
+h3{
+background-color: white;
+}
+
 p 
 {
+    background-color: white;
     max-width: 600px;
     margin: auto;
+    border-style: solid;
     /*margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
