@@ -1,7 +1,7 @@
 /* this comments like C */
 
 body {
-    background="backgrond_boy.jpg";
+    background-image: url("backgrond_boy.jpg");
 
 }
 
