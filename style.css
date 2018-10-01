@@ -1,9 +1,9 @@
 /* this comments like C */
 
-/*body {
+body {
     background-image: url("backgrond_boy.jpg");
 
-}*/
+}
 
 h1{
    background-color: white;
@@ -22,7 +22,7 @@ p
 {
     background-color: white;
     max-width: 600px;
-    margin: auto;
+    margin: 20px;
     border-style: solid;
     /*margin-top: 100px;
     margin-bottom: 100px;
