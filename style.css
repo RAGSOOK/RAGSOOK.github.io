@@ -1,7 +1,7 @@
 /* this comments like C */
 
 body {
-    background: url("https://github.com/RAGSOOK/RAGSOOK.github.io/blob/master/background_boy.jpg");
+    background: url(https://github.com/RAGSOOK/RAGSOOK.github.io/blob/master/background_boy.jpg);
 }
 
 h1{
@@ -21,7 +21,7 @@ p
 {
     background-color: white;
     max-width: 600px;
-    margin: 20px;
+    margin: auto;
     border-style: solid;
     /*margin-top: 100px;
     margin-bottom: 100px;
