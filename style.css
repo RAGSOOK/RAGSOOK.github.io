@@ -1,8 +1,7 @@
 /* this comments like C */
 
 body {
-    background-image: url("backgrond_boy.jpg");
-
+    background: url("backgrond_boy.jpg");
 }
 
 h1{
